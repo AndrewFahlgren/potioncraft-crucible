@@ -8,6 +8,8 @@ Crucible is a modding framework for PotionCraft, with the following features
 Out of the box, Crucible provides support for creating code-free PotionCraft mods for:
 
 - Custom Ingredients
+- Custom Customers
+- Custom Merchants
 
 Additionally, Crucible provides an API for other mods to use that provides:
 
@@ -65,8 +67,6 @@ The following features are in active development:
 The following features are planned:
 
 - Custom potion effects
-- Custom Customers
-- Custom Merchants
 
 ### License
 
